@@ -1,9 +1,13 @@
 {
-  "status":"success",
-  "data":[
+  "status": "success",
+  "data": [
     {
-      "id":1,
-      "name":"iphone 11"
+      "id": 1,
+      "name": "iphone 11"
+    },
+    {
+      "id": 2,
+      "name": "iphone 12"
     }
   ]
 }
